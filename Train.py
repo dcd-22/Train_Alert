@@ -2,8 +2,6 @@ import requests
 import json
 from twilio.rest import Client
 
-
-
 username = "enter username"
 password = "enter password"
 
